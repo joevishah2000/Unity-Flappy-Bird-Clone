@@ -1,8 +1,8 @@
-Unity Flappy Bird Clone
+# Unity Flappy Bird Clone
 
 A simple Flappy Bird–style 2D game built using Unity and C#.
 
-🎮 Gameplay Features
+# Gameplay Features
 
 Tap/press X to make the bird jump
 
@@ -14,7 +14,7 @@ Collision detection → game restarts
 
 Polished day background & ground sprite
 
-🧩 Core Scripts
+# Core Scripts
 ✔ Bird.cs
 
 Handles jump, input, collisions, score.
@@ -27,7 +27,7 @@ Moves pipes left continuously.
 
 Spawns new pipes using Coroutines with random heights.
 
-🛠️ Technologies Used
+# Technologies Used
 
 Unity 2D
 
